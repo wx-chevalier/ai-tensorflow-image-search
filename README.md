@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AI-Kits/tensorflow-image-search">
+  <a href="https://github.com/wx-chevalier/tensorflow-image-search">
     <img src="https://s2.ax1x.com/2020/01/16/ljgpUP.png" alt="Logo" width="120" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     A reverse image search engine powered by elastic search and tensorflow
     <br />
-    <a href="https://github.com/AI-Kits/tensorflow-image-search"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wx-chevalier/tensorflow-image-search"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AI-Kits/tensorflow-image-search">View Demo</a>
+    <a href="https://github.com/wx-chevalier/tensorflow-image-search">View Demo</a>
     ·
-    <a href="https://github.com/AI-Kits/tensorflow-image-search/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/tensorflow-image-search/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AI-Kits/tensorflow-image-search/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/tensorflow-image-search/issues">Request Feature</a>
   </p>
 </p>
 
@@ -71,7 +71,7 @@ Download this and paste it inside models folder.
 
 ## Roadmap
 
-See the [open issues](https://github.com/AI-Kits/tensorflow-image-search/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/wx-chevalier/tensorflow-image-search/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -112,13 +112,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/AI-Kits/tensorflow-image-search.svg?style=flat-square
-[contributors-url]: https://github.com/AI-Kits/tensorflow-image-search/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AI-Kits/tensorflow-image-search.svg?style=flat-square
-[forks-url]: https://github.com/AI-Kits/tensorflow-image-search/network/members
-[stars-shield]: https://img.shields.io/github/stars/AI-Kits/tensorflow-image-search.svg?style=flat-square
-[stars-url]: https://github.com/AI-Kits/tensorflow-image-search/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AI-Kits/tensorflow-image-search.svg?style=flat-square
-[issues-url]: https://github.com/AI-Kits/tensorflow-image-search/issues
-[license-shield]: https://img.shields.io/github/license/AI-Kits/tensorflow-image-search.svg?style=flat-square
-[license-url]: https://github.com/AI-Kits/tensorflow-image-search/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/tensorflow-image-search.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/tensorflow-image-search/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/tensorflow-image-search.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/tensorflow-image-search/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/tensorflow-image-search.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/tensorflow-image-search/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/tensorflow-image-search.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/tensorflow-image-search/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/tensorflow-image-search.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/tensorflow-image-search/blob/master/LICENSE.txt
